@@ -1,7 +1,9 @@
 **Uloha 1**
-# Numerické derivace pro f(x) = cos(5 * arccos(x))
+# Numerické derivace pro \( f(x) = \cos(5 \cdot \arccos(x)) \)
 
-# Definujeme funkci f(x)
+## Definice funkce \( f(x) \)
+
+```r
 f <- function(x) {
   return(cos(5 * acos(x)))
 }
