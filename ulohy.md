@@ -1,5 +1,5 @@
 **Uloha 1**
-# Numerické derivace pro \( f(x) = \cos(5 \cdot \arccos(x)) \)
+## Numerické derivace pro \( f(x) = \cos(5 \cdot \arccos(x)) \)
 
 ## Definice funkce \( f(x) \)
 
